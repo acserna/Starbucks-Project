@@ -2,7 +2,7 @@
 
 "Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington in 1971. As of early 2019, the company operates over 30,000 locations worldwide.
 
-Starbucks is considered the main representative of "second wave coffee", initially distinguishing itself from other coffee-serving venues in the US by taste, quality, and customer experience while popularizing darkly roasted coffee.Since the 2000s, third wave coffee makers have targeted quality-minded coffee drinkers with hand-made coffee based on lighter roasts, while Starbucks nowadays uses automated espresso machines for efficiency and safety reasons." [https://en.wikipedia.org/wiki/Airbnb]
+Starbucks is considered the main representative of "second wave coffee", initially distinguishing itself from other coffee-serving venues in the US by taste, quality, and customer experience while popularizing darkly roasted coffee.Since the 2000s, third wave coffee makers have targeted quality-minded coffee drinkers with hand-made coffee based on lighter roasts, while Starbucks nowadays uses automated espresso machines for efficiency and safety reasons." [https://en.wikipedia.org/wiki/Starbucks]
 
 One important goal is to attract clients using several types of offers and the idea is that hey gonna buy the Starbucks products, in this way the business will get more revenue. A relevant fact is to analyze the behavior of the offers with the clients and understand the way that they buy the Starbucks products along the time.
 
