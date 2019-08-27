@@ -41,4 +41,4 @@ transcript.json
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ### Results
-All the results are presented in the following post on "Medium": 
+All the results are presented in the following post on "Medium": https://medium.com/@andres.c.serna/data-science-process-in-simulated-starbucks-data-to-predict-the-spend-of-money-of-the-clients-74e2e608c8ce
